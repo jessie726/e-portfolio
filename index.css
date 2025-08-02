@@ -555,9 +555,10 @@ body {
       rgba(10, 10, 10, 0.4),
       rgb(10, 10, 10, 0.4)
     ),
-    url("images/background_2.jpg");
+    url("images/background_3.jpg");
   --background-background: #fff;
 }
+
 
 
 
