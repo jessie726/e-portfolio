@@ -232,7 +232,7 @@ body {
   border-radius: 5px;
   background-size: cover !important;
   background-repeat: no-repeat !important;
-  background-image: url('images/profile.jpg');
+  background-image: url("https://jessie726.github.io/e-portfolio/images/profile.jpg");
 }
 
 #profile div {
@@ -555,9 +555,10 @@ body {
       rgba(10, 10, 10, 0.4),
       rgb(10, 10, 10, 0.4)
     ),
-    url("images/background_3.jpg");
+    url("https://jessie726.github.io/e-portfolio/images/background_3.jpg");
   --background-background: #fff;
 }
+
 
 
 
