@@ -558,3 +558,7 @@ body {
   --background-background: #fff;
 }
 
+#profile_img {
+  background-image: url('images/profile.jpg');
+  background-position: center;
+}
