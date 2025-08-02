@@ -232,6 +232,7 @@ body {
   border-radius: 5px;
   background-size: cover !important;
   background-repeat: no-repeat !important;
+  background-image: url('images/profile.jpg')
 }
 
 #profile div {
@@ -558,7 +559,4 @@ body {
   --background-background: #fff;
 }
 
-#profile_img {
-  background-image: url('images/profile.jpg');
-  background-position: center;
-}
+
