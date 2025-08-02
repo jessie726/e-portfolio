@@ -460,7 +460,10 @@ body {
 
   #work {
     margin: 0px;
-    background: url("https://jessie726.github.io/e-portfolio/images/background_1.jpg") center center / cover no-repeat;
+     background-image: url("https://jessie726.github.io/e-portfolio/images/background_1.jpg");
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
     padding: 4vh 3vw !important;
     border-radius: 12px;
   }
@@ -561,6 +564,7 @@ body {
     url("https://jessie726.github.io/e-portfolio/images/background_1.jpg");
   --background-background: #fff;
 }
+
 
 
 
