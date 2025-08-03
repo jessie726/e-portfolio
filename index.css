@@ -363,7 +363,7 @@ body {
 
 .socials span {
   display: inline-block !important;
-  margin-right: 2vw !important;
+  margin-right: 0.8rem !important;
   font-weight: normal !important;
 }
 
@@ -558,6 +558,7 @@ body {
     url("https://jessie726.github.io/e-portfolio/images/background_1.jpg");
   --background-background: #fff;
 }
+
 
 
 
